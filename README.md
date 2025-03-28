@@ -1,34 +1,48 @@
-📌 Project Overview
-This Power BI dashboard provides real-time insights into key performance metrics and trends for credit card financials. The dashboard helps stakeholders monitor crucial aspects such as revenue, transaction volumes, customer segmentation, and geographic contributions on a weekly basis.
+**Credit Card Financial Dashboard**
 
-🚀 Features
-Revenue Analysis: Tracks total revenue, annual fees, transaction amounts, and interest earned.
-Customer Segmentation: Categorizes customers by age and income groups.
-Weekly Performance Tracking: Compares current and previous week's revenue.
-Demographic Insights: Analyzes revenue contributions by gender and geographic regions.
-Credit Card Performance: Identifies top-performing card types and their transaction share.
-Operational Metrics: Includes activation rates, delinquency rates, and customer satisfaction scores.
+A Business Intelligence solution built using Power BI and MySQL to help a financial institution analyse credit card transactions, revenue streams, and customer behaviour.
 
-📊 Key Insights
-Total Revenue: $55M in 2023.
-Total Interest Earned: $8M.
-Total Transaction Volume: $46M.
-Top Revenue Contributors: Male customers ($30M), Female customers ($25M).
-Popular Credit Cards: Blue & Silver cards contribute to 93.51% of transactions.
-Top States by Revenue: Texas, New York, and California (69% contribution).
-Overall Activation Rate: 57.5%.
-Overall Delinquency Rate: 6%.
-Customer Satisfaction Score: 3.19/5.
+**Business Problem**
 
-🛠️ DAX Queries Used
-Age Group Classification
-Income Group Classification
-Revenue Calculation (Weekly and Total)
-Current & Previous Week Revenue Comparison
-📷 Dashboard Preview
-(Add screenshots of your dashboard here)
+The financial institution lacked a centralised reporting tool to monitor credit card usage trends, track revenue performance, and understand customer segments. As a result, stakeholders were unable to make timely, data-driven decisions related to marketing, risk management, and customer targeting.
 
-🏗️ Technologies Used
-Power BI for data visualization.
-DAX (Data Analysis Expressions) for custom calculations.
-SQL for data extraction and transformation (if applicable).
+
+
+**Objective**
+
+To design an interactive dashboard that enables business teams to:
+- Monitor credit card transactions over time
+- Analyse gross and net revenue
+- Understand customer segments based on usage patterns
+- Track KPIs related to financial performance and customer engagement
+
+---
+
+**Tools & Technologies Used**
+
+- Power BI – for dashboard creation and data visualisation
+- MySQL – to query, filter, and prepare the underlying dataset
+- DAX – for calculated metrics like revenue, profit margin, and segmentation
+- Excel – used for preliminary data cleaning (optional)
+
+---
+
+## 📊 Dashboard Features
+
+- Revenue and Profit KPIs
+- Transaction Volume by Time and Region
+- Customer Segmentation by Spend Behaviour
+- Category-level Insights** (e.g. food, travel, shopping)
+- Interactive Filters** (e.g. date range, card type, region)
+
+---
+
+## 📈 Outcome & Business Impact
+
+- Provided stakeholders with real-time, self-service analytics
+- Helped identify high-value customer segments for targeted campaigns
+- Enabled revenue performance tracking to optimise credit card offerings
+- Reduced dependency on manual reports by introducing a scalable BI solution
+
+
+

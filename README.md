@@ -1,4 +1,4 @@
-**Credit Card Financial Dashboard**
+##Credit Card Financial Dashboard##
 
 A Business Intelligence solution built using Power BI and MySQL to help a financial institution analyse credit card transactions, revenue streams, and customer behaviour.
 
@@ -6,7 +6,7 @@ A Business Intelligence solution built using Power BI and MySQL to help a financ
 
 The financial institution lacked a centralised reporting tool to monitor credit card usage trends, track revenue performance, and understand customer segments. As a result, stakeholders were unable to make timely, data-driven decisions related to marketing, risk management, and customer targeting.
 
-
+---
 
 **Objective**
 
@@ -27,7 +27,7 @@ To design an interactive dashboard that enables business teams to:
 
 ---
 
-## 📊 Dashboard Features
+**Dashboard Features**
 
 - Revenue and Profit KPIs
 - Transaction Volume by Time and Region
@@ -37,7 +37,7 @@ To design an interactive dashboard that enables business teams to:
 
 ---
 
-## 📈 Outcome & Business Impact
+**Outcome & Business Impact**
 
 - Provided stakeholders with real-time, self-service analytics
 - Helped identify high-value customer segments for targeted campaigns

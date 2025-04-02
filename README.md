@@ -21,12 +21,13 @@ This dashboard was developed to address these challenges by consolidating key pe
 ⸻
 
 **Objectives**
-	-	Develop a real-time dashboard to monitor weekly credit card performance
-	-	Track customer demographics, income levels, card preferences, and regional behaviour
-	-	Measure overall revenue and its sources, including interest, annual fees, and transactions
-	-	Compare the current and previous week’s performance for trend analysis
-	-	Identify high-risk areas using delinquency data
-	-	Capture customer satisfaction scores to enhance service delivery
+	•	Develop a real-time dashboard to monitor weekly credit card performance
+	•	Track customer demographics, income levels, card preferences, and regional behaviour
+	•	Measure overall revenue and its sources, including interest, annual fees, and transactions
+	•	Compare the current and previous week’s performance for trend analysis
+	•	Identify high-risk areas using delinquency data
+	•	Capture customer satisfaction scores to enhance service delivery
+
 
 ⸻
 

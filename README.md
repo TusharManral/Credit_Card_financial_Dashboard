@@ -76,14 +76,14 @@ These DAX measures form the foundation for the visual analysis in the dashboard.
 ⸻
 
 **Key Insights**
-	•	Total revenue in 2023 was approximately $55 million
-	•	Interest earnings contributed $8 million, while transaction amounts totalled $46 million
-	•	Male customers generated slightly higher revenue compared to females
-	•	Blue and Silver cards dominate the market with over 93.5% of transaction volume
-	•	States like TX, NY, and CA lead in customer engagement and revenue contribution
-	•	The activation rate for cards stands at 57.5%
-	•	Delinquency rate observed is around 6%
-	•	The average customer satisfaction score is 3.19 out of 5
+- Total revenue in 2023 was approximately $55 million  
+- Interest earnings contributed $8 million, while transaction amounts totaled $46 million  
+- Male customers generated slightly higher revenue compared to females  
+- Blue and Silver cards dominate the market with over 93.5% of transaction volume  
+- States like TX, NY, and CA lead in customer engagement and revenue contribution  
+- The activation rate for cards stands at 57.5%  
+- Delinquency rate observed is around 6%  
+- The average customer satisfaction score is 3.19 out of 5  
 
 ⸻
 

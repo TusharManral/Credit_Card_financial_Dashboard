@@ -33,6 +33,7 @@ Objectives
 Features
 
 Revenue and Performance Metrics
+
 The dashboard tracks total revenue and breaks it down by:
 	•	Transaction amounts
 	•	Interest earned
@@ -41,6 +42,7 @@ The dashboard tracks total revenue and breaks it down by:
 It allows for week-over-week comparisons using DAX measures, helping users identify revenue fluctuations and operational trends.
 
 Customer Demographic Analysis
+
 Customers are segmented across several dimensions:
 	•	Age groups (20–30, 30–40, etc.)
 	•	Income levels (Low, Medium, High)
@@ -49,9 +51,11 @@ Customers are segmented across several dimensions:
 These segments help to identify high-value customer profiles and support the development of targeted financial strategies.
 
 Product Insights
+
 Each credit card type — Blue, Silver, Gold, and Platinum — is analysed for its activation rate, revenue contribution, and usage patterns. The Blue and Silver cards emerge as the most widely used, together accounting for over 93% of all transactions.
 
 Geographic Breakdown
+
 The dashboard includes a state-wise analysis of customer activity and revenue generation. Texas, New York, and California are the top contributors, collectively accounting for nearly 70% of total revenue.
 
 Risk and Satisfaction Metrics

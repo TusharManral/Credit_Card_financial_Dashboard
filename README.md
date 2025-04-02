@@ -11,6 +11,7 @@ The solution makes use of DAX queries, clear visual storytelling, and structured
 Business Problem
 
 Financial institutions often struggle to gain a holistic view of their customer base and financial operations. Key challenges include:
+
 • Fragmented reporting systems that delay decision-making
 • Difficulty in identifying which customer segments generate the most revenue
 • Limited visibility into delinquency risks, satisfaction trends, and product performance

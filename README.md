@@ -15,7 +15,7 @@ Financial institutions often struggle to gain a holistic view of their customer 
 • Fragmented reporting systems that delay decision-making
 • Difficulty in identifying which customer segments generate the most revenue
 • Limited visibility into delinquency risks, satisfaction trends, and product performance
-	•	Inability to compare financial metrics on a week-to-week basis
+• Inability to compare financial metrics on a week-to-week basis
 
 This dashboard was developed to address these challenges by consolidating key performance indicators (KPIs) and visual analytics into one unified platform.
 

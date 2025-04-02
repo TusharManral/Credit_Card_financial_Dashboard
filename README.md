@@ -1,6 +1,6 @@
-Credit Card Financial Dashboard
+# Credit Card Financial Dashboard
 
-Overview
+**Overview**
 
 This project is a full-fledged Credit Card Financial Dashboard developed using Power BI. It offers a comprehensive, data-driven view of customer behaviour, financial performance, and product usage across multiple dimensions. The dashboard is designed to assist stakeholders in monitoring real-time metrics and making informed strategic decisions within the financial services sector.
 
@@ -11,9 +11,9 @@ The solution makes use of DAX queries, clear visual storytelling, and structured
 Business Problem
 
 Financial institutions often struggle to gain a holistic view of their customer base and financial operations. Key challenges include:
-	•	Fragmented reporting systems that delay decision-making
-	•	Difficulty in identifying which customer segments generate the most revenue
-	•	Limited visibility into delinquency risks, satisfaction trends, and product performance
+• Fragmented reporting systems that delay decision-making
+• Difficulty in identifying which customer segments generate the most revenue
+• Limited visibility into delinquency risks, satisfaction trends, and product performance
 	•	Inability to compare financial metrics on a week-to-week basis
 
 This dashboard was developed to address these challenges by consolidating key performance indicators (KPIs) and visual analytics into one unified platform.
